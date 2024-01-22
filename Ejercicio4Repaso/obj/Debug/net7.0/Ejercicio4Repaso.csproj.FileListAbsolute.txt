@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\bin\Debug\net7.0\Ejercicio4Repaso.exe
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\bin\Debug\net7.0\Ejercicio4Repaso.deps.json
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\bin\Debug\net7.0\Ejercicio4Repaso.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\bin\Debug\net7.0\Ejercicio4Repaso.dll
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\bin\Debug\net7.0\Ejercicio4Repaso.pdb
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\obj\Debug\net7.0\Ejercicio4Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\obj\Debug\net7.0\Ejercicio4Repaso.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\obj\Debug\net7.0\Ejercicio4Repaso.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\obj\Debug\net7.0\Ejercicio4Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\obj\Debug\net7.0\Ejercicio4Repaso.dll
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\obj\Debug\net7.0\refint\Ejercicio4Repaso.dll
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\obj\Debug\net7.0\Ejercicio4Repaso.pdb
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\obj\Debug\net7.0\Ejercicio4Repaso.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\Ejercicio4Repaso\obj\Debug\net7.0\ref\Ejercicio4Repaso.dll
